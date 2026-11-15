@@ -63,9 +63,9 @@ python gui.py
 File-Encryption-Tool/
 │
 ├── gui.py
-├── secret.key
 ├── README.md
-└── sample.txt
+├── requirements.txt
+└── .gitignore
 ```
 
 Keep personal keys and test files out of public GitHub repositories.
