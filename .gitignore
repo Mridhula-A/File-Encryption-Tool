@@ -1,0 +1,6 @@
+secret.key
+*.key
+sample*
+__pycache__/
+*.pyc
+.env
