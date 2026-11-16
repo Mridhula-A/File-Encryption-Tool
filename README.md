@@ -2,9 +2,11 @@
 
 A Python-based desktop application for securely encrypting and decrypting files using Fernet symmetric encryption, with SHA-256 integrity verification.
 
-## Application Screenshot
+## Application Interface
 
-![File Encryption Tool GUI](screenshots/file-encryption-tool.png)
+<p align="center">
+  <img src="file-encryption-tool.png" alt="File Encryption Tool GUI" width="700">
+</p>
 
 ## Features
 
